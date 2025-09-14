@@ -71,6 +71,7 @@
           - lsb-release
           - flatpak
           - snapd
+          - okular
         state: present
     # Install VS Code
     - name: Install VS Code + some others

@@ -14824,3 +14824,97 @@ The offending line appears to be:
     "community.general.sudosu": "Run tasks using sudo su -",
     "containers.podman.podman_unshare": "Run tasks using podman unshare"
 }
+2025-09-14 16:32:59,866 p=121887 u=trucktrav n=ansible INFO| playbook: playbook.yml
+2025-09-14 16:33:00,331 p=121892 u=trucktrav n=ansible INFO| {
+    "ansible.builtin.runas": "Run As user",
+    "ansible.builtin.su": "Substitute User",
+    "ansible.builtin.sudo": "Substitute User DO",
+    "ansible.netcommon.enable": "Switch to elevated permissions on a network device",
+    "community.general.doas": "Do As user",
+    "community.general.dzdo": "Centrify's Direct Authorize",
+    "community.general.ksu": "Kerberos substitute user",
+    "community.general.machinectl": "Systemd's machinectl privilege escalation",
+    "community.general.pbrun": "PowerBroker run",
+    "community.general.pfexec": "profile based execution",
+    "community.general.pmrun": "Privilege Manager run",
+    "community.general.run0": "Systemd's run0",
+    "community.general.sesu": "CA Privileged Access Manager",
+    "community.general.sudosu": "Run tasks using sudo su -",
+    "containers.podman.podman_unshare": "Run tasks using podman unshare"
+}
+2025-09-14 16:42:15,388 p=127642 u=trucktrav n=ansible INFO| playbook: playbook.yml
+2025-09-14 16:42:15,843 p=127647 u=trucktrav n=ansible INFO| {
+    "ansible.builtin.runas": "Run As user",
+    "ansible.builtin.su": "Substitute User",
+    "ansible.builtin.sudo": "Substitute User DO",
+    "ansible.netcommon.enable": "Switch to elevated permissions on a network device",
+    "community.general.doas": "Do As user",
+    "community.general.dzdo": "Centrify's Direct Authorize",
+    "community.general.ksu": "Kerberos substitute user",
+    "community.general.machinectl": "Systemd's machinectl privilege escalation",
+    "community.general.pbrun": "PowerBroker run",
+    "community.general.pfexec": "profile based execution",
+    "community.general.pmrun": "Privilege Manager run",
+    "community.general.run0": "Systemd's run0",
+    "community.general.sesu": "CA Privileged Access Manager",
+    "community.general.sudosu": "Run tasks using sudo su -",
+    "containers.podman.podman_unshare": "Run tasks using podman unshare"
+}
+2025-09-14 17:24:11,652 p=142931 u=trucktrav n=ansible_compat.runtime WARNING| Skipped installing collection dependencies due to running in offline mode.
+2025-09-14 17:24:11,998 p=142984 u=trucktrav n=ansible INFO| playbook: playbook.yml
+2025-09-14 17:24:12,453 p=143000 u=trucktrav n=ansible INFO| {
+    "ansible.builtin.runas": "Run As user",
+    "ansible.builtin.su": "Substitute User",
+    "ansible.builtin.sudo": "Substitute User DO",
+    "ansible.netcommon.enable": "Switch to elevated permissions on a network device",
+    "community.general.doas": "Do As user",
+    "community.general.dzdo": "Centrify's Direct Authorize",
+    "community.general.ksu": "Kerberos substitute user",
+    "community.general.machinectl": "Systemd's machinectl privilege escalation",
+    "community.general.pbrun": "PowerBroker run",
+    "community.general.pfexec": "profile based execution",
+    "community.general.pmrun": "Privilege Manager run",
+    "community.general.run0": "Systemd's run0",
+    "community.general.sesu": "CA Privileged Access Manager",
+    "community.general.sudosu": "Run tasks using sudo su -",
+    "containers.podman.podman_unshare": "Run tasks using podman unshare"
+}
+2025-09-14 17:28:09,513 p=144357 u=trucktrav n=ansible_compat.runtime WARNING| Skipped installing collection dependencies due to running in offline mode.
+2025-09-14 17:28:09,850 p=144394 u=trucktrav n=ansible INFO| playbook: playbook.yml
+2025-09-14 17:28:09,960 p=144357 u=trucktrav n=ansiblelint._internal.rules WARNING| Ignored exception from ArgsRule.matchtasks while processing playbook.yml (playbook): 'package'
+2025-09-14 17:28:10,273 p=144403 u=trucktrav n=ansible INFO| {
+    "ansible.builtin.runas": "Run As user",
+    "ansible.builtin.su": "Substitute User",
+    "ansible.builtin.sudo": "Substitute User DO",
+    "ansible.netcommon.enable": "Switch to elevated permissions on a network device",
+    "community.general.doas": "Do As user",
+    "community.general.dzdo": "Centrify's Direct Authorize",
+    "community.general.ksu": "Kerberos substitute user",
+    "community.general.machinectl": "Systemd's machinectl privilege escalation",
+    "community.general.pbrun": "PowerBroker run",
+    "community.general.pfexec": "profile based execution",
+    "community.general.pmrun": "Privilege Manager run",
+    "community.general.run0": "Systemd's run0",
+    "community.general.sesu": "CA Privileged Access Manager",
+    "community.general.sudosu": "Run tasks using sudo su -",
+    "containers.podman.podman_unshare": "Run tasks using podman unshare"
+}
+2025-09-14 17:28:13,138 p=144432 u=trucktrav n=ansible_compat.runtime WARNING| Skipped installing collection dependencies due to running in offline mode.
+2025-09-14 17:28:13,477 p=144469 u=trucktrav n=ansible INFO| playbook: playbook.yml
+2025-09-14 17:28:13,929 p=144474 u=trucktrav n=ansible INFO| {
+    "ansible.builtin.runas": "Run As user",
+    "ansible.builtin.su": "Substitute User",
+    "ansible.builtin.sudo": "Substitute User DO",
+    "ansible.netcommon.enable": "Switch to elevated permissions on a network device",
+    "community.general.doas": "Do As user",
+    "community.general.dzdo": "Centrify's Direct Authorize",
+    "community.general.ksu": "Kerberos substitute user",
+    "community.general.machinectl": "Systemd's machinectl privilege escalation",
+    "community.general.pbrun": "PowerBroker run",
+    "community.general.pfexec": "profile based execution",
+    "community.general.pmrun": "Privilege Manager run",
+    "community.general.run0": "Systemd's run0",
+    "community.general.sesu": "CA Privileged Access Manager",
+    "community.general.sudosu": "Run tasks using sudo su -",
+    "containers.podman.podman_unshare": "Run tasks using podman unshare"
+}

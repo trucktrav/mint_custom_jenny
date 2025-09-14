@@ -1,0 +1,9 @@
+
+---
+# requirements.yml - Ansible collections and roles required for this project
+
+collections:
+  # Community General Collection - includes flatpak, ufw, dconf modules
+  - name: community.general
+  # Ansible POSIX Collection - includes sysctl module
+  - name: ansible.posix
